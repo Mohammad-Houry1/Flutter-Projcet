@@ -1,0 +1,242 @@
+[
+  {
+    "id": "001",
+    "name": "Bench Press",
+    "description": "The bench press is primarily a compound exercise that targets the pectoralis major, specifically the sternal head, as the main muscle group worked. However, it also engages several other muscle groups in the upper body as synergists and dynamic stabilizers.",
+    "category": "Chest",
+    "targeted_muscle": "Pectoralis Major, Sternal",
+    "image": "bench_press.png",
+    "video": "Barbell-Bench-Press.gif",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": "002",
+    "name": "Pec Deck Fly / Machine Fly",
+    "description": "An exercise that targets the back muscles, particularly the lats.",
+    "category": "Chest",
+    "targeted_muscle": "Pectoralis Major, Sternal",
+    "image": "pull_up.png",
+    "video": "Pec-Deck-Fly.gif",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": "003",
+    "name": "Incline Chest Fly Machine",
+    "description": "The incline chest fly machine primarily targets the upper chest muscles, specifically the clavicular (upper) fibers of the pectoralis major. It also engages several other muscles to stabilize and assist in the movement. Here are the main muscles worked during the incline chest fly machine exercise:",
+    "category": "Chest",
+    "targeted_muscle": "Pectoralis Major, Clavicular",
+    "image": "bench_press.png",
+    "video": "Incline-Chest-Fly-Machine.gif",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": "004",
+    "name": "Low Cable Crossover",
+    "description": "The low cable crossover is a machine-based cable exercise that targets the chest muscles. It involves using a cable machine with the reels set to the lowest height and then crossing the arms in front of the chest while keeping the elbows slightly bent. This action targets the chest muscles, especially the upper and inner regions, while also engaging the shoulders and triceps as secondary muscles.",
+    "category": "Chest",
+    "targeted_muscle": "Pectoralis Major, Sternal",
+    "image": "bench_press.png",
+    "video": "Low-Cable-Crossover.gif",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": "005",
+    "name": "Seated Zottman Curl",
+    "description": "The seated Zottman curl is a variation of the dumbbell curl exercise that targets the biceps brachii, brachialis, and forearms. The seated position helps stabilize your body and isolate the muscles being worked on. This exercise targets both the biceps during the supination phase and the forearm muscles (especially the brachioradialis) during the pronation phase, providing a more comprehensive arm workout.",
+    "category": "Biceps",
+    "targeted_muscle": "Biceps Brachii",
+    "image": "bench_press.png",
+    "video": "Seated-Zottman-Curl.gif",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": "006",
+    "name": "Standing Barbell Concentration Curl",
+    "description": "The Standing Barbell Concentration Curl is a strength training exercise that primarily targets the brachialis and biceps brachii muscles of the arms. This is a challenging variation of the concentration curl, but instead of using dumbbells, barbells are used.",
+    "category": "Biceps",
+    "targeted_muscle": "Brachialis",
+    "image": "bench_press.png",
+    "video": "Standing-Barbell-Concentration-Curl.gif",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": "007",
+    "name": "Concentration Curl",
+    "description": "Concentration curls are a type of strength training exercise that primarily targets the brachialis and biceps muscles of the arms. When performing a concentration curl unilaterally, you are able to focus more specifically on each arm, allowing for greater muscle activation and development. This can help to address muscle imbalances between the left and right sides of the body, which can be common due to dominant hand use or previous injuries.",
+    "category": "Biceps",
+    "targeted_muscle": "Brachialis",
+    "image": "bench_press.png",
+    "video": "Concentration-Curl.gif",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": "008",
+    "name": "EZ Bar Preacher Curl",
+    "description": "The EZ Bar preacher curl, a variation of the preacher curl performed with a straight barbell, is an effective isolation exercise primarily targeting the biceps and forearms.",
+    "category": "Biceps",
+    "targeted_muscle": "Brachialis",
+    "image": "bench_press.png",
+    "video": "Z-Bar-Preacher-Curl.gif",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": "009",
+    "name": "Seated Cable Row",
+    "description": "The seated cable row is a popular cable exercise that targets the upper back and lats. This exercise involves pulling a cable attachment towards your body while seated, using a cable machine. Whether you’re a beginner or an experienced lifter, this exercise can be a valuable addition to your training program.",
+    "category": "Back",
+    "targeted_muscle": "Latissimus Dorsi",
+    "image": "bench_press.png",
+    "video": "Seated-Cable-Row.gif",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": "010",
+    "name": "Lat Pulldown",
+    "description": "The lat pulldown is a pulling exercise that primarily targets the latissimus dorsi muscles (commonly known as “lats”) in your back. It involves pulling a cable bar or handle down towards your chest while seated on a machine specifically designed for this exercise. The lat pulldown is typically performed with a wide grip, but can also be done with a narrow grip or underhand grip to target different muscle groups in the back and arms. It is a popular exercise for building upper body strength and improving posture.",
+    "category": "Back",
+    "targeted_muscle": "Latissimus Dorsi",
+    "image": "bench_press.png",
+    "video": "Lat-Pulldown.gif",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": "011",
+    "name": "Barbell Bent Over Row",
+    "description": "The Barbell Bent Over Row is a compound weightlifting exercise that primarily targets the muscles of the upper back, including the lats (latissimus dorsi), rhomboids, and traps, as well as the biceps and rear deltoids. It also engages the core muscles for stability. This exercise is commonly used to build strength and muscle mass in the back and arms.",
+    "category": "Back",
+    "targeted_muscle": "Back",
+    "image": "bench_press.png",
+    "video": "Barbell-Bent-Over-Row.gif",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": "012",
+    "name": "Wide-Grip Reverse Lat-Pulldown",
+    "description": "The reverse lat pulldown primarily targets the muscles of the upper back, especially the latissimus dorsi, teres major, and rhomboids. It also engages the biceps to a greater extent than the traditional lat pulldown. This variation can provide a different stimulus to your back muscles and help improve overall back development.",
+    "category": "Back",
+    "targeted_muscle": "Latissimus Dorsi",
+    "image": "bench_press.png",
+    "video": "Reverse-Lat-Pulldown.gif",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": "013",
+    "name": "One Arm Triceps Pushdown",
+    "description": "The One arm triceps pushdown is an isolation, single-joint move, which isolates the triceps without the assistance of other muscle groups or joints. Triceps pushdown can be used as an arm toning exercise or as a muscle building exercise.",
+    "category": "Triceps",
+    "targeted_muscle": "Triceps",
+    "image": "bench_press.png",
+    "video": "One-arm-triceps-pushdown.gif",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": "014",
+    "name": "Dumbbell Kickback",
+    "description": "The dumbbell kickback is a popular strength training exercise that targets the triceps muscles in the back of your upper arms. It helps strengthen and tone the triceps, contributing to overall arm strength and aesthetics.",
+    "category": "Triceps",
+    "targeted_muscle": "Triceps",
+    "image": "bench_press.png",
+    "video": "Dumbbell-Kickback.gif",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": "015",
+    "name": "Triceps Push-down",
+    "description": "The triceps push-down is a popular strength training exercise that targets the triceps muscles, which are located on the back of your upper arms. It’s a fundamental exercise for building triceps strength and definition and is commonly performed using a cable machine in most gyms.",
+    "category": "Triceps",
+    "targeted_muscle": "Triceps",
+    "image": "bench_press.png",
+    "video": "Pushdown.gif",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": "016",
+    "name": "Lying Barbell Triceps Extension",
+    "description": "The lying barbell triceps extension, also known as the lying triceps extension or skull crusher, is an effective strength training exercise that targets the triceps muscles. It’s performed by lying on a flat bench with a barbell and extending your arms overhead to work the triceps through a full range of motion.",
+    "category": "Triceps",
+    "targeted_muscle": "Triceps",
+    "image": "bench_press.png",
+    "video": "Barbell-Triceps-Extension.gif",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": "017",
+    "name": "Dumbbell Shoulder Press",
+    "description": "The dumbbell shoulder press, also known as the dumbbell overhead press, is an exercise that targets the muscles of the shoulders and upper body. It involves lifting a pair of dumbbells from shoulder level to an overhead position, using the shoulders and arms.",
+    "category": "Shoulders",
+    "targeted_muscle": "Anterior Deltoid",
+    "image": "bench_press.png",
+    "video": "Dumbbell-Shoulder-Press.gif",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": "018",
+    "name": "Dumbbell Lateral Raise",
+    "description": "The dumbbell lateral raise is an exercise that primarily targets the lateral deltoids, the muscles on the sides of the shoulders. It is an effective isolation exercise for developing shoulder strength, stability, and aesthetics.",
+    "category": "Shoulders",
+    "targeted_muscle": "Lateral Deltoid",
+    "image": "bench_press.png",
+    "video": "Dumbbell-Lateral-Raise.gif",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": "019",
+    "name": "Cable lateral raise",
+    "description": "The cable lateral raise is an effective exercise for targeting the lateral deltoids and improving shoulder strength and stability. It can be incorporated into your upper body or shoulder workout routine, or used as part of a full-body strength training program.",
+    "category": "Shoulders",
+    "targeted_muscle": "Lateral Deltoid",
+    "image": "bench_press.png",
+    "video": "one-arm-Cable-Lateral-Raise.gif",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": "020",
+    "name": "Alternating Dumbbell Front Raise",
+    "description": "The Dumbbell front raise is a isole exercise that targets the fronts and sides of the shoulders. Suitable for all levels, this shoulder flexion exercise is a good option for building strength, improving shoulder mobility and shaping your shoulder heads.",
+    "category": "Shoulders",
+    "targeted_muscle": "Anterior Deltoid",
+    "image": "bench_press.png",
+    "video": "Alternating-Dumbbell-Front-Raise.gif",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": "021",
+    "name": "Smith Machine Squat ",
+    "description": "The Smith machine squat is a controlled variation of the traditional squat. Unlike free-weight squats, the Smith Machine guides the movement path, allowing you to focus on proper technique and effectively target specific muscles. This feature can be especially beneficial for beginners or those needing additional support, as it reduces the demand for balancing the weight.",
+    "category": "Legs",
+    "targeted_muscle": "Quadriceps",
+    "image": "bench_press.png",
+    "video": "smith-machine-squat.gif",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": "022",
+    "name": "Leg Press",
+    "description": "The leg press, is a type of strength training exercise. It’s an effective move for strengthening your quadriceps, which are in the front of your upper legs. It is commonly performed using a leg press machine, which typically consists of a seat and a platform to which weight plates can be added.",
+    "category": "Legs",
+    "targeted_muscle": "Quadriceps",
+    "image": "bench_press.png",
+    "video": "Leg-Press.gif",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": "023",
+    "name": "Seated Leg Curl",
+    "description": "Seated leg curls are a popular variation of the leg curl exercise that specifically target the hamstrings. They are typically performed using a leg curl machine, which provides a stable platform and adjustable resistance.",
+    "category": "Legs",
+    "targeted_muscle": "Hamstrings",
+    "image": "bench_press.png",
+    "video": "Seated-Leg-Curl.gif",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": "024",
+    "name": "Leg Extension",
+    "description": "Leg extensions are a popular isolation exercise that primarily target the quadriceps muscles, which are located at the front of the thigh. Leg extension exercises typically involve the use of a leg extension machine found in most gyms. Here’s a step-by-step guide on how to perform leg extensions:",
+    "category": "Legs",
+    "targeted_muscle": "Quadriceps",
+    "image": "bench_press.png",
+    "video": "LEG-EXTENSION.gif",
+    "difficulty": "Intermediate"
+  }
+]
